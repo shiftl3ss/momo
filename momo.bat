@@ -1,0 +1,1 @@
+cmd /K py -3 momo.py 90
